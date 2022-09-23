@@ -1,6 +1,7 @@
+![image](https://drive.google.com/file/d/1xnhwb3Nr_AReFCvMAVHS5m_xKYwhLB-H/view?usp=sharing)
 
 # Olá, me chamo Guilherme!👋
-Aqui você poderá acompanhar o que tenho estudado e de Python e suas principais bibliotecas, bem como, aplicação prática dos algoritimos de Machine Learning!
+Aqui você poderá acompanhar o que tenho estudado de Python e suas principais bibliotecas, bem como, aplicação prática dos algoritimos de Machine Learning!
 
 ## 🚀 Sobre mim
 💻 Sou estudante de Ciência de Dados, apaixonado por programação e fã de Python.
@@ -23,3 +24,4 @@ Aqui você poderá acompanhar o que tenho estudado e de Python e suas principais
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guilhermecanfield)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-canfield-de-almeida-b0221b185)
+[![Kaggel](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/guilhermecanfield)
