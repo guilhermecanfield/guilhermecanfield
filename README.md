@@ -1,4 +1,4 @@
-![image](https://drive.google.com/file/d/1xnhwb3Nr_AReFCvMAVHS5m_xKYwhLB-H/view?usp=sharing)
+<a href="https://drive.google.com/uc?export=view&id=1xnhwb3Nr_AReFCvMAVHS5m_xKYwhLB-H"><img src="https://drive.google.com/uc?export=view&id=1xnhwb3Nr_AReFCvMAVHS5m_xKYwhLB-H" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 # Olá, me chamo Guilherme!👋
 Aqui você poderá acompanhar o que tenho estudado de Python e suas principais bibliotecas, bem como, aplicação prática dos algoritimos de Machine Learning!
