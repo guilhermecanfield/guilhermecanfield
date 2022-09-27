@@ -42,6 +42,6 @@ Bem Vindo ao meu Perfil!
 <a href="https://github.com/guilhermecanfield/Data_Science">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecanfield&repo=Data_Science&theme=highcontrast&show_icons=true" />
 </a>
-<a href="https://github.com/guilhermecanfield/Database">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecanfield&repo=Database&theme=highcontrast&show_icons=true" />
+<a href="https://github.com/guilhermecanfield/Database-SQL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecanfield&repo=Database-SQL&theme=highcontrast&show_icons=true" />
 </a>
