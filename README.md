@@ -40,11 +40,11 @@ Bem Vindo ao meu Perfil!
 
 ## 📈 Repositórios
 <a href="https://github.com/guilhermecanfield/Data_Science">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecanfield&repo=Data_Science&theme=highcontrast&show_icons=true" />
+  <img align="head" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecanfield&repo=Data_Science&theme=highcontrast&show_icons=true" />
 </a>
 <a href="https://github.com/guilhermecanfield/Database-SQL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecanfield&repo=Database-SQL&theme=highcontrast&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecanfield&repo=Database-SQL&theme=highcontrast&show_icons=true" />
 </a>
 <a href="https://github.com/guilhermecanfield/PowerBI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecanfield&repo=PowerBI-SQL&theme=highcontrast&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecanfield&repo=PowerBI&theme=highcontrast&show_icons=true" />
 </a>
