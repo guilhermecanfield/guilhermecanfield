@@ -24,13 +24,13 @@ Bem Vindo ao meu Perfil!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermecanfield&show_icons=true&theme=highcontrast)
 
 ## 🚀 Sobre mim
-💻 Sou estudante de Ciência de Dados, apaixonado por programação e fã de Python.
+💻 Atuo na área de Dados há 2 anos, apaixonado por programação e dados, buscando sempre transformar dados em informaçãoes e estas em insights valiosos.
 
 🤓 Louco por Games e História!
 
-👩‍💻 Atualmente estou em transição de carreira e me dedicando inteiramente ao universo infinito dos dados.
+👩‍💻 Atualmente estou trabalhando como Analista de Dados na Qbem.
 
-🧠 Estou aprendendo Machine Learning, aprofundando os conhecimentos em estatística e no meio disso tudo o Python não pode faltar!
+🧠 Estou me aprofundando na área de engenharia de dados, estudando programação orientada a objetos e pipelines de dados!
 
 👯‍♀️ Procuro colaborar em Projetos de Data Science e Analytics.
 
