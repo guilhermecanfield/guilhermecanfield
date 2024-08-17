@@ -40,12 +40,18 @@ Bem Vindo ao meu Perfil!
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![NoSQL](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![Sci](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=whit) ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
 ## 📈 Repositórios
-<a href="https://github.com/guilhermecanfield/Data_Science">
-  <img align="head" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecanfield&repo=Data_Science&theme=highcontrast&show_icons=true" />
-</a>
-<a href="https://github.com/guilhermecanfield/Database-SQL">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecanfield&repo=Database-SQL&theme=highcontrast&show_icons=true" />
-</a>
-<a href="https://github.com/guilhermecanfield/PowerBI">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecanfield&repo=PowerBI&theme=highcontrast&show_icons=true" />
-</a>
+
+<p align="center">
+  <a href="https://github.com/guilhermecanfield/Data_Science">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecanfield&repo=Data_Science&theme=highcontrast&show_icons=true" alt="Data Science" />
+  </a>
+  <a href="https://github.com/guilhermecanfield/regressao_linear">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecanfield&repo=regressao_linear&theme=highcontrast&show_icons=true" alt="Regressão Linear" />
+  </a>
+  <a href="https://github.com/guilhermecanfield/Database-SQL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecanfield&repo=Database-SQL&theme=highcontrast&show_icons=true" alt="Database SQL" />
+  </a>
+  <a href="https://github.com/guilhermecanfield/PowerBI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecanfield&repo=PowerBI&theme=highcontrast&show_icons=true" alt="Power BI" />
+  </a>
+</p>
